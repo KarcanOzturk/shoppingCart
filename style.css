@@ -1,0 +1,30 @@
+form {
+  width: 500px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    font-family: 'Pacifico', cursive;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container-input {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  margin-bottom: 20px;
+}
+.size-container {
+  border: 1px solid black;
+}
+th {
+  width: 20%;
+}
